@@ -1,0 +1,1076 @@
+
+
+@media only screen and (max-width:1439px){
+    #trending .wrapper .trend-cards .card .image a img {
+        height: 150%;
+    }
+    #games .wrapper .cards .played {
+        height: 50%;
+    }
+    #categories .wrapper .cards {
+        height: 55%;
+    }
+
+    #categories .wrapper .cards .image img {
+        height: 100%;
+    }
+
+
+}
+@media only screen and (max-width:1407px){
+    #games .wrapper .cards {
+       
+        display: flex;
+        justify-content: center;
+    }
+    #trending .wrapper {
+        width: 85%;
+        height: 65%;
+    }
+    #trending .wrapper .trend-cards .card {
+        width: 24%;
+        height: 70%;
+    }
+    #trending .wrapper .trend-cards .card .image{
+        width: 100%;
+        height: 50%;
+    }
+    #categories .wrapper .container {
+        gap: 20px;
+    }
+
+    #categories .wrapper .cards {
+        height: 50%;
+    }
+
+}
+
+@media only screen and (max-width:1335px) {
+    nav .nav .nav-wrapper .logo {
+        width: 20%;
+        height: 70%;
+    }
+
+    nav .nav .nav-wrapper ul {
+        gap: 20px;
+    }
+}
+
+@media only screen and (max-width:1267px) {
+    #shop .wrap {
+        width: 90%;
+    }
+}
+@media only screen and (max-width:1256px) {
+    nav .nav .nav-wrapper ul {
+        gap: 10px;
+    }
+}
+
+@media only screen and (max-width:1199px) {
+    #shop {
+        width: 100%;
+        height: 120vh;
+    }
+    #shop .wrap {
+        width: 79%;
+        height: 90%;
+    }
+}
+@media only screen and (max-width:1177px) {
+    nav .nav .nav-wrapper ul {
+        width: 70%;
+    }
+    #categories .wrapper .cards {
+        height: 40%;
+    }
+
+}
+
+@media only screen and (max-width:1009px) {
+    nav .nav .nav-wrapper ul {
+        gap: 5px;
+    }
+}
+@media only screen and (max-width:1021px) {
+    
+    #categories .wrapper .container {
+        gap: 20px;
+    }
+    #categories .wrapper .cards{
+        height: 35%;
+    }
+    #categories .wrapper .cards .image img {
+        width: 100%;
+        height: 100%;
+    }
+    
+    
+    
+}
+
+@media only screen and (max-width:991px) {
+    nav {
+        width: 100%;
+        height: 15vh;
+    }
+
+    nav .nav .nav-wrapper {
+        width: 75%;
+        height: 60%;
+    }
+
+    nav .nav .nav-wrapper ul {
+        width: 85%;
+    }
+
+    header {
+        width: 100%;
+        height: auto;
+    }
+
+    header .header {
+        width: 99%;
+        height: 243vh;
+    }
+
+    header .header .wrapper {
+        width: 75%;
+        height: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+    }
+
+    header .header .wrapper .left-content {
+        width: 100%;
+        height: auto;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
+
+    header .header .wrapper .left-content form {
+        width: 99%;
+        height: 50px;
+    }
+
+    header .header .wrapper .left-content form .button {
+        height: 60px;
+    }
+
+    header .header .wrapper .right-content {
+        width: 100%;
+        height: auto;
+    }
+
+    header .header .wrapper .right-content .banner-image {
+
+        width: 100%;
+        height: 100%;
+    }
+
+    header .header .wrapper .right-content .banner-image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    header #feature {
+        width: 100%;
+        height: 70vh;
+    }
+    header #feature .wrapper {
+        width: 75%;
+        height: 80%;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+    header #feature a {
+        width: 48%;
+        height: 50%;
+    }
+
+
+
+    #trending {
+        width: 100%;
+        height: 150vh;
+    }
+    #trending .wrapper {
+        width: 80%;
+        height: 80%;
+    }
+    #trending .wrapper .trend-cards {
+        width: 99%;
+        height: 80%;
+        gap: 54px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    #trending .wrapper .trend-cards .card {
+        width: 40%;
+        height: 50%;
+    }
+
+
+
+    #games {
+        width: 100%;
+        height: auto;
+    }
+    #games .wrapper {
+        width: 80%;
+        height: 80%;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    
+    }
+    #games .wrapper .cards {
+        width: 99%;
+        height: 80%;
+        gap: 50px;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    #games .wrapper .cards .played {
+        width: 40%;
+        height: 80%;
+        
+    }
+    #games .wrapper .cards .played .content {
+        width: 100%;
+        height: 30%;
+    }
+#games .wrapper .heading button {
+        display: none;
+    }
+
+
+
+    #categories {
+        width: 100%;
+        height: auto;
+    }
+    #categories .wrapper {
+        width: 85%;
+        height: 200vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+    }
+    #categories .wrapper .container{
+        width: 99%;
+        height: 80%;
+        gap: 30px;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: start;
+    }
+    #categories .wrapper .container .cards{
+        width: 40%;
+        height: 28%;
+    }
+    #categories .wrapper .container .cards .image{
+        width: 100%;
+        height: 80%;
+    
+    }
+    #our-shop{
+        height: 150vh;
+    }
+    #our-shop .wrap {
+        height: 180vh;
+       background: transparent;
+    }
+    #our-shop .wrap .wrapper {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+    }
+    #our-shop .wrap .shop {
+        width: 90%;
+        height: 35%;
+    }
+    #our-shop .wrap .new {
+        width: 90%;
+        height: 25%;
+    }
+    footer {
+        height: 80h;
+    }
+
+
+
+}
+@media only screen and (max-width:970px) {
+    #categories .wrapper .cards .image img {
+        width: 100%;
+        height: 100%;
+    }
+
+}
+
+
+
+@media only screen and (max-width:980px) {
+    nav .nav .nav-wrapper {
+        width: 85%;
+        height: 60%;
+    }
+
+    nav .nav .nav-wrapper .logo {
+        width: 15%;
+        height: 80%;
+    }
+
+    nav .nav .nav-wrapper ul {
+        width: 75%;
+    }
+}
+@media only screen and (max-width:909px) {
+    nav .nav .nav-wrapper {
+        width: 90%;
+        height: 60%;
+    }
+
+    nav .nav .nav-wrapper .logo {
+        width: 15%;
+        height: 70%;
+    }
+
+    nav .nav .nav-wrapper ul {
+        width: 85%;
+    }
+    #categories .wrapper .cards .image img {
+        width: 100%;
+    }
+
+}
+
+@media only screen and (max-width:833px) {
+    #trending .wrapper {
+        width: 85%;
+        height: 80%;
+    }
+
+}
+
+@media only screen and (max-width:769px) {
+    nav .nav .nav-wrapper{
+        display: flex;
+        justify-content: space-between;
+    }
+    nav .nav .nav-wrapper .menu_icon {
+        width: 55px;
+        height: 40px;
+        display: block;
+        font-size: 50px;
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+    }
+
+
+    nav .nav .nav-wrapper ul {
+        display: flex;
+        justify-content: center;
+        gap: 30px;
+        flex-direction: column;
+        position: absolute;
+        top: -400%;
+        left: 0px;
+        background-color: #4ebc69;
+        color: black;
+        width: 100%;
+        height: 350px;
+        text-align: center;
+        padding: 10px 0;
+        transition: 1s ease-in-out;
+    }
+    
+    #check:checked~ul {
+        top: 100%;
+    }
+    header .header .wrapper {
+        height: 80%;
+        bottom: 60px;
+    }
+
+    
+    header #feature {
+            width: 100%;
+            height: 150vh;
+            top: -200px;
+        }
+        header #feature .wrapper {
+            justify-content: center;
+            align-items: center;
+        }
+        header #feature a {
+            width: 80%;
+            height: 30%;
+        }
+        #trending {
+            width: 100%;
+            height: auto;
+        }
+        #trending .wrapper{
+            width: 85%;
+            height: 80%;
+            display: flex;
+            flex-direction: column;
+            gap: 40PX;
+        }
+        #trending .wrapper .trend-cards {
+            width: 99%;
+            height: 100%;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        #trending .wrapper .trend-cards .heading {
+            width: 80%;
+            height: 410px;
+        }
+        #trending .wrapper .trend-head .heading button {
+            display: none;
+        }
+        #trending .wrapper .trend-cards .card {
+            width: 80%;
+        }
+        #trending .wrapper .trend-cards .card .image{
+            height: 90%;
+        }
+        #trending .wrapper .trend-cards .card .image a img {
+            height: 80%;
+        }
+        
+
+
+        #games {
+            margin-top: 20px;
+        }
+
+        #categories {
+            width: 100%;
+            height: 220vh;
+        }
+        #categories .wrapper {
+            width: 90%;
+            height: 200vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+        }
+        #categories .wrapper .container{
+            width: 99%;
+            height: 85%;
+            gap: 30px;
+            justify-content: start;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        #categories .wrapper .container .cards{
+            width: 47%;
+            height: 32%;
+        }
+        #categories .wrapper .container .cards .image{
+            width: 100%;
+            height: 250px;
+        }
+        #categories .wrapper .container .cards .image img {
+            width: 100%;
+            height: 100%;
+        }
+       
+
+
+    }
+    @media only screen and (max-width:755px) {
+        #games{
+            margin-top: 70px;
+        }
+    }
+    @media only screen and (max-width:730px) {
+        footer .wrapper p {
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+    }
+     
+    
+    @media only screen and (max-width:688px) {
+        #games {
+            width: 100%;
+            height: 178vh;
+        }
+        #games .wrap {
+            height: auto;
+        }
+        
+        #trending {
+            height: 300vh;
+        }
+        
+        #trending .wrapper {
+            width: 85%;
+            height: 90%;
+            display: flex;
+            justify-content: space-between;
+            flex-direction: column;
+        }
+        
+        #trending .wrapper .trend-head {
+            width: 100%;
+            height: 10%;
+            
+        }
+        
+        #trending .wrapper .heading button {
+            display: none;
+        }
+        
+        #trending .wrapper .trend-cards {
+            height: 250vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            
+        }
+        
+        #trending .wrapper .trend-cards .card {
+            width: 80%;
+            height: 350px;
+        }
+        
+        #trending .wrapper .trend-cards .card .image h3 {
+            display: none;
+        }
+        #trending .wrapper .trend-cards .card .image{
+            height: 80%;
+        }
+        #trending .wrapper .trend-cards .card .text {
+            height: 40%;
+            display: flex;
+            gap: 20px;
+        }
+        #trending .wrapper .trend-cards .card .text .content{
+            display: flex;
+            flex-direction: column;
+            
+        }
+       
+    }
+    @media only screen and (max-width:651px) {
+        header .header {
+            height: 1194px;
+        }
+        #trending .wrapper .trend-cards {
+            width: 100%;
+        }
+    
+        header .header {
+            height: 1390px;
+        }
+        #games {
+            height: 200vh;
+        }
+        
+    
+    }
+    @media only screen and (max-width:580px) {
+        #games {
+            height: 600vh;
+        }
+        
+        
+        #games .wrapper .cards .played {
+            width: 100%;
+            height: 80%;
+        }
+        #categories .wrapper {
+            width: 90%;
+            height: 130%;
+        }
+        #categories {
+            height: 250vh;
+        }
+        #categories .wrapper .container {
+            width: 100%;
+            height: 50%;
+        }
+        #our-shop {
+            width: 100%;
+            height: 120vh;
+        }
+    }
+    @media only screen and (max-width:560px) {
+        #categories {
+            height: 230vh;
+        }
+    
+    
+    }
+    @media only screen and (max-width:555px) {
+        #categories {
+            height: 350vh;
+        }
+        #categories .wrapper{
+            height: 90%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: start;
+        }
+        #categories .wrapper .container{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #categories .wrapper .container .cards {
+            width: 80%;
+        }
+        #categories .wrapper .container .cards .image{
+            height: 80%;
+        }
+
+        #our-shop{
+            height: 130vh;
+        }
+        #our-shop .wrap .wrapper{
+            display: flex;
+            align-items: end;
+            justify-content: start;
+
+        }
+        #our-shop .wrap .new {
+            height: 40%;
+        }
+
+        #our-shop .wrap .new .wrapper form {
+            height: 110px;
+            flex-direction: column;
+            background-color: transparent;
+            gap: 5px;
+    
+        }
+        #our-shop .wrap .new .wrapper form .button {
+            width: 90%;
+        }
+
+    }
+    @media only screen and (max-width:520px) {
+        #our-shop {
+            height: 59vh;
+        }
+       #games{
+        height: 550vh;
+    
+       }
+        
+        #categories {
+            width: 100%;
+            height: 390vh;
+        }
+        
+        #categories .wrapper {
+            width: 90%;
+            
+        }
+        
+        #categories .wrapper .container {
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 60px;
+            justify-content: space-around;
+        }
+        
+        #categories .wrapper .container .cards {
+            width: 100%;
+            height: 370px;
+        }
+        #categories .wrapper .cards .image img {
+            height: 100%;
+        }
+        #our-shop{
+            height: 200vh;
+        }
+        
+        #our-shop .wrap .new {
+            height: 100%;
+        }
+    
+        
+    }
+    
+    
+    @media only screen and (max-width:516px) {
+    
+        
+        #our-shop {
+            height: 200vh;
+        }
+    
+        #our-shop .wrap {
+            width: 90%;
+            height: auto;
+            background: transparent;
+    
+        }
+    
+        #our-shop .wrap .wrapper {
+            height: 190vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+    
+        #our-shop .wrap .shop {
+            width: 100%;
+            height: 530px;
+        }
+    
+        #our-shop .wrap .shop .wrapper {
+            width: 90%;
+        }
+    
+        #our-shop .wrap .new {
+            width: 100%;
+            height: 500px;
+        }
+    
+        #our-shop .wrap .new .wrapper {
+            width: 90%;
+        }
+        #our-shop .wrap .new .wrapper form {
+            height: 110px;
+            flex-direction: column;
+            background-color: transparent;
+    
+        }
+        #our-shop .wrap .new .wrapper form .button {
+            width: 90%;
+        }
+    }
+    
+    
+    
+
+
+
+ /* for mobile */
+
+
+ @media only screen and (max-width:424px) {
+
+
+      
+    nav .nav .nav-wrapper .logo {
+        width: 30%;
+        height: 50%;
+    }
+
+    header {
+        width: 100%;
+        height: 300vh;
+    }
+
+    header .header {
+        height: 100%;
+        display: flex;
+        align-items: start;
+    }
+
+    header .header .wrapper {
+        width: 100%;
+        height: 70vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 60px;
+        align-items: center;
+    }
+
+    header .header .wrapper .left-content {
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+    header .header .wrapper .left-content p {
+        width: 95%;
+    }
+
+    header .header .wrapper .left-content form {
+        width: 100%;
+        height: 40px;
+    }
+
+    header .header .wrapper .right-content {
+        width: 90%;
+        height: auto;
+
+    }
+
+    header .header .wrapper .right-content .offer {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+    }
+
+    header .header .wrapper .right-content .banner-image {
+        width: 100%;
+        height: 100%;
+    }
+
+    header .header .wrapper .right-content .banner-image img {
+        width: 100%;
+        height: 100%;
+    }
+
+    header #feature {
+        width: 100%;
+        height: 300vh;
+       
+    }
+
+    header #feature .wrapper {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    header #feature .wrapper a {
+        width: 95%;
+    }
+
+    header #feature a .cards {
+        width: 100%;
+        height: 100%;
+        border-radius: 30px;
+        background-color: rgb(255, 255, 255);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        color: rgb(0, 0, 0);
+        box-shadow: 0px 0px 10px rgba(183, 73, 73, 0.5);
+    }
+    
+    header #feature a{
+        height: 20%;
+    }
+    #trending {
+        height: 280vh;
+        display: flex;
+        align-items: start;
+    }
+
+    #trending .wrapper {
+        width: 85%;
+        height: 60%;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    #trending .wrapper .trend-head {
+        width: 100%;
+        height: 10%;
+
+    }
+
+    #trending .wrapper .heading button {
+        display: none;
+    }
+
+    #trending .wrapper .trend-cards {
+        height: 250vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+
+    }
+
+    #trending .wrapper .trend-cards .card {
+        width: 90%;
+        height: 350px;
+    }
+
+    #trending .wrapper .trend-cards .card .image h3 {
+        display: none;
+    }
+    #games {
+        width: 100%;
+        height: 500vh;
+    }
+
+    #games .wrapper {
+        width: 99%;
+        height: 90%;
+    }
+
+    #games .wrapper h3 {
+        text-align: center;
+    }
+
+    #games .wrapper .heading {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #games .wrapper .heading button {
+        display: none;
+    }
+
+    #games .wrapper .cards {
+        height: 500vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+#games .wrapper .cards .played {
+        width: 90%;
+        height: 460px;
+    }
+    #games .wrapper .cards .played .image{
+        height: 380px;
+    }
+    #games .wrapper .cards .played .content{
+        width: 90%;
+        height: 20%;
+    }
+    #categories {
+        width: 100%;
+        height: 250vh;
+        margin-top: 500px;
+    }
+
+    #categories .wrapper {
+        width: 90%;
+    }
+
+    #categories .wrapper .container {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        justify-content: space-around;
+    }
+
+    #categories .wrapper .container .cards {
+        width: 100%;
+        height: 370px;
+    }
+
+    #categories .wrapper .container .cards .image {
+        width: 100%;
+        height: 310px;
+    }
+
+    #categories .wrapper .container .cards .image img {
+        width: 100%;
+        height: 100%;
+    }
+    #our-shop {
+        height: 200vh;
+        margin-top: 400px;
+    }
+
+    #our-shop .wrap {
+        width: 90%;
+        height: auto;
+        background: transparent;
+
+    }
+
+    #our-shop .wrap .wrapper {
+        height: 190vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    #our-shop .wrap .shop {
+        width: 100%;
+        height: 530px;
+    }
+
+    #our-shop .wrap .shop .wrapper {
+        width: 90%;
+    }
+
+    #our-shop .wrap .new {
+        width: 100%;
+        height: 500px;
+    }
+
+    #our-shop .wrap .new .wrapper {
+        width: 90%;
+    }
+    #our-shop .wrap .new .wrapper form {
+        height: 110px;
+        flex-direction: column;
+        background-color: transparent;
+
+    }
+    #our-shop .wrap .new .wrapper form .button {
+        width: 90%;
+    }
+    footer {
+        width: 100%;
+        height: 30vh;
+    }
+
+    footer .wrapper {
+        width: 99%;
+        height: 100%;
+        background-color: var(--primary-color);
+        color: white;
+        font-size: 16px;
+        padding: 10px;
+        border-radius: 100px 100px 0px 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    footer .wrapper p {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
